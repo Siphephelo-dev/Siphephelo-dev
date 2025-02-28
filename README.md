@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Siphephelo Mohase</h1>
 <h3 align="center">I'm a passionate Information and Communications Technology graduate from the University of Mpumalanga 🎓. I have a keen interest in web development, software engineering, and IT solutions. Always eager to learn new technologies and improve my skills!</h3>
 
-- 🌱 I’m currently learning **Advanced JavaScript (React, Node.js), Mobile App Development (Flutter)**
+- 🌱 I’m currently learning **Mobile App Development (Flutter)**
 
 - 📫 How to reach me **mohasesiphephelo@gmail.com**
 
